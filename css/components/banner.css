@@ -1,0 +1,17 @@
+.banner {
+	background-image: url(../../images/background.jpg);
+	margin-bottom: 30px;
+	padding: 145px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	display: flex;
+}
+
+.banner h1{
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	padding: 20px;
+}  
+
+
